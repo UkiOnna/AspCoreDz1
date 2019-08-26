@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\bin\Debug\netcoreapp2.1\AspCoreDz.deps.json
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\bin\Debug\netcoreapp2.1\AspCoreDz.runtimeconfig.json
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\bin\Debug\netcoreapp2.1\AspCoreDz.runtimeconfig.dev.json
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\bin\Debug\netcoreapp2.1\AspCoreDz.dll
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.AssemblyInfo.cs
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\bin\Debug\netcoreapp2.1\AspCoreDz.pdb
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.dll
+C:\Users\User\source\repos\AspCoreDz\AspCoreDz\obj\Debug\netcoreapp2.1\AspCoreDz.pdb
