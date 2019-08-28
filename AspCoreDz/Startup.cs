@@ -25,6 +25,7 @@ namespace AspCoreDz
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseMiddleware<ExeptionMiddleware>();
 
             app.UseMvc(routes =>
             {
